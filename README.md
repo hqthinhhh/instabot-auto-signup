@@ -5,6 +5,7 @@
 ```
 21 browser = webdriver.Chrome("your chrome driver path here")
 ```
+```
 #Another browser
 21 browser = webdriver.Firefox("/Users/admin/Desktop/python/Driver selenium/geckodriver")
 ```
