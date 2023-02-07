@@ -2,6 +2,7 @@
 
 <p>Create an account automatically by randomizing names. Need Selenium library installed. Change the Web driver from the part of the code in botAccountCreate.py :</p>
 
+```
 21 browser = webdriver.Chrome("your chrome driver path here")
 ```
 #Another browser
